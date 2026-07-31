@@ -1,0 +1,27 @@
+# Maven build
+target/
+
+# TestNG Reports
+test-output/
+surefire-reports/
+
+# Extent Reports
+reports/
+
+# Screenshots
+screenshots/
+
+# Logs
+*.log
+
+# Compiled files
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

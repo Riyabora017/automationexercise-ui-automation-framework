@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="classes" thread-count="4"  >
+<listeners>
+    <listener class-name="Riyabora.AutomationExerciseProject.TestComponents.listners"/>
+    <listener class-name="Riyabora.AutomationExerciseProject.TestComponents.RetryListener"/>
+</listeners>
+
+  <test thread-count="4" name="Test">
+    <classes>
+      <class name="Riyabora.AutomationExerciseProject.Tests.HomePageValidationTest"/>
+      <class name="Riyabora.AutomationExerciseProject.Tests.cartValidationTest"/>
+      <class name="Riyabora.AutomationExerciseProject.Tests.LoginValidationtest"/>
+      <class name="Riyabora.AutomationExerciseProject.Tests.ProductValidationTest"/>
+      <class name="Riyabora.AutomationExerciseProject.Tests.VerifySubscriptionTest"/>
+      <class name="Riyabora.AutomationExerciseProject.Tests.RegisterUsertest"/>
+      <class name="Riyabora.AutomationExerciseProject.Tests.SecondRegisterUserTest"/>
+      <class name="Riyabora.AutomationExerciseProject.Tests.VerifyPagesTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

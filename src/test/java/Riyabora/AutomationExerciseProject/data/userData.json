@@ -1,0 +1,12 @@
+[
+   {
+    "type": "valid",
+    "email": "borariya982@gmail.com",
+    "password": "Riya123"
+  },
+  {
+    "type": "invalid",
+    "email": "Pakhirajput982@gmail.com",
+    "password": "Pakhi123"
+  }
+]
