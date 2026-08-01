@@ -14,7 +14,7 @@ A Hybrid UI Automation Framework built using **Java, Selenium WebDriver, TestNG,
 - **TestNG Listeners**
 - **Retry Mechanism for Failed Tests**
 - **Reusable Components**
-- **Cross-browser support (if implemented)**
+- **Cross-browser support**
 - **Git & GitHub Version Control**
 🛠️ Tech Stack
 - **Java**
