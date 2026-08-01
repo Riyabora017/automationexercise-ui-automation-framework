@@ -28,7 +28,7 @@ A Hybrid UI Automation Framework built using **Java, Selenium WebDriver, TestNG,
 - **Git**
 - **GithHUB**
 
-  ## Test Coverage
+## Test Coverage
 Automated end-to-end test scenarios including **User Registration, Login, Product Search, Product Details, Add to Cart, Cart Validation, Checkout, Payment, Contact Us, Subscription, Category Navigation, and Account Management**.
 
 ## Framework Highlights
