@@ -45,6 +45,9 @@ Automated end-to-end test scenarios including **User Registration, Login, Produc
 - **git clone <repository-url>**
 - **cd AutomationExerciseProject**
 - **mvn clean test**
--**GitHuExtent ReportExtent Reports
-Git
-GitHub
+
+## 👩‍💻 Author
+
+**Riya Bora**
+
+**Aspiring SDET | QA Automation Engineer**
